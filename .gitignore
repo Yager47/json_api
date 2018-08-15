@@ -13,5 +13,8 @@
 !/log/.keep
 !/tmp/.keep
 
+# Production
+/public
+
 .byebug_history
 .rubocop.yml
